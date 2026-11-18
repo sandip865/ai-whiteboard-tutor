@@ -8,8 +8,8 @@
 
 ## 🌟 Live Demo & Video Walkthrough
 
-- **Live Deployed Application:** [https://ai-whiteboard-tutor.vercel.app](https://ai-whiteboard-tutor.vercel.app) *(or your deployed URL)*
-- **GitHub Repository:** [https://github.com/sandipshete/ai-whiteboard-tutor](https://github.com/sandipshete/ai-whiteboard-tutor)
+- **Live Deployed Application:** [https://ai-whiteboard-tutor-snowy.vercel.app/](https://ai-whiteboard-tutor-snowy.vercel.app/)
+- **GitHub Repository:** [https://github.com/sandip865/ai-whiteboard-tutor](https://github.com/sandip865/ai-whiteboard-tutor)
 - **Submission Form:** Completed with repository & live demo links.
 
 ---
